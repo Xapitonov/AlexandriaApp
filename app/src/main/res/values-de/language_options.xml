@@ -2,7 +2,8 @@
 <resources>
     <string-array name="language_options">
         <item>Spanisch</item>
-        <item>Englisch</item>
         <item>Deutsch</item>
+        <item>Englisch</item>
+        <item>Russisch</item>
     </string-array>
 </resources>
