@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Александрия</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_search">Поиск</string>
+    <string name="book_downloader_service_description">Искать книги в интернете</string>
+    <string name="file_conversion_service_description">Преобразовать файл в другой формат.</string>
+    <string name="download_receiver_description">Ждём файл(ов)</string>
+    <string name="loading_results">Загрузка результатов.../string>
+    <string name="descargar">Скачать</string>
+    <string name="cover">Обложка</string>
+    <string name="pdf">PDF</string>
+    <string name="epub">EPUB</string>
+    <string name="azw3">AZW3</string>
+    <string name="home_greeting">
+        Ух ты, так пусто!\n\n
+        Используйте строку поиска, чтобы начать искать книги.
+    </string>
+    <string name="server_error">
+        Произошла ошибка при подключении к серверу. Пожалуйста, попробуйте снова позже.
+    </string>
+    <string name="search_menu_item">Поиск</string>
+    <string name="convert_menu_item">Преобразовать</string>
+    <string name="search_books_toolbar_title">Искать книги</string>
+    <string name="convert_books_toolbar_title">Преобразовать книги</string>
+    <string name="choose_a_file">Выбрать файл</string>
+    <string name="choose_a_file_to_convert">Книга</string>
+    <string name="mobi">MOBI</string>
+    <string name="conversion_format">В какой формат преобразовать файл?</string>
+    <string name="convert">Преобразовать</string>
+    <string name="filtros">Фильтр по</string>
+    <string name="conversion_error">
+        Произошла ошибка при преобразовании. Пожалуйста, попробуйте снова позже.
+    </string>
+    <string name="archivo_cargado">Загружено: %s</string>
+    <string name="logo">Логотип</string>
+    <string name="about">Об ПО</string>
+    <string name="mas">Больше</string>
+    <string name="version">Версия 0.3.5</string>
+    <string name="download_completed">Скачивание завершено: %s</string>
+    <string name="starting_download">Начинается загрузка: %s</string>
+    <string name="conversion_complete">Преобразование завершено.</string>
+    <string name="file_loaded">Файл загружен: %s</string>
+    <string name="file_already_in_format">Файл уже в выбранном формате.</string>
+    <string name="starting_conversion">Начинается преобразование.</string>
+    <string name="file_size_exceeded">Файл не может быть больше 10 МБ.</string>
+    <string name="there_was_an_error_converting_book">Произошла ошибка при преобразовании книги.</string>
+    <string name="limit_reached">Вы можете преобразовать только 2 книги в минуту.</string>
+    <string name="notification_rationale">Приложение должно отправлять уведомления о загрузках и преобразованиях.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отменить</string>
+    <string name="download_book_rationale">Требуются разрешения для скачивания книг.</string>
+    <string name="search_service_title">В поиске %s</string>
+    <string name="search_service_content">Идёт поиск.</string>
+    <string name="from_conversion_format">Преобразование из</string>
+    <string name="to_conversion_format">Преобразование в</string>
+    <string name="support_kofi">Купите мне колу на https://ko-fi.com/aloussase.</string>
+    <string name="github">ГитХаб</string>
+    <string name="linkedin">Линкедин</string>
+    <string name="kofi">Ко-фи</string>
+    <string name="action_filter">Фильтр</string>
+    <string name="empty_contents">Файл пустой.</string>
+    <string name="empty_filename">Файл поврежден.</string>
+    <string name="already_in_right_format">Книга уже в этом формате.</string>
+    <string name="settings">Настройки</string>
+    <string name="language">Язык</string>
+</resources>
